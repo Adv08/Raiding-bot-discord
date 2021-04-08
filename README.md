@@ -17,6 +17,8 @@ This bot is made solely for educational purposes. I do not take any responsibly 
 All code made using or based off this code is not endorsed. 
 I do not endorse, support or encourage API abuse. 
 
+BOT DEMO - https://www.youtube.com/watch?v=vfQO7MYvh3Y
+
 If you do not want to run this on your system, feel free to use repl - https://replit.com/talk/share/KTZI-V1-STABLE/133653 
 
 
