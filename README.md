@@ -1,4 +1,6 @@
-# Raiding-bot-discord
+
+![alt text](https://images-ext-2.discordapp.net/external/yRRUGecGcIYgZDOb6hpzIQwgCPh1aTZKO9KxhWsodKA/%3Fwidth%3D1904%26height%3D1032/https/media.discordapp.net/attachments/813082786507915314/830174902748971018/unknown.png)
+
 
 ██╗░░██╗████████╗███████╗██╗░░░  ██╗░░░██╗░░███╗░░
 ██║░██╔╝╚══██╔══╝╚════██║██║░░░  ██║░░░██║░████║░░
@@ -6,7 +8,6 @@
 ██╔═██╗░░░░██║░░░██╔══╝░░██║░░░  ░╚████╔╝░╚═╝██║░░
 ██║░╚██╗░░░██║░░░███████╗██║██╗  ░░╚██╔╝░░███████╗
 ╚═╝░░╚═╝░░░╚═╝░░░╚══════╝╚═╝╚═╝  ░░░╚═╝░░░╚══════╝
-![alt text](https://images-ext-2.discordapp.net/external/yRRUGecGcIYgZDOb6hpzIQwgCPh1aTZKO9KxhWsodKA/%3Fwidth%3D1904%26height%3D1032/https/media.discordapp.net/attachments/813082786507915314/830174902748971018/unknown.png)
 
 KTZI V1 (Stable) is a simplistic raiding bot designed in python.
 This bot is designed to push the discord API to its limits and maximise the damage.
